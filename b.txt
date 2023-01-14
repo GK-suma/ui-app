@@ -1,2 +1,4 @@
  animal 
  bird
+dog
+cat
