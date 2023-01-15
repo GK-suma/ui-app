@@ -2,3 +2,6 @@
  bird
 dog
 cat
+parrot
+duck
+cow
