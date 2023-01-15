@@ -2,3 +2,5 @@ devops
 git
 github
 tomcat
+docker
+linux
