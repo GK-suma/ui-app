@@ -5,3 +5,5 @@ cat
 parrot
 duck
 cow
+lion
+tiger
