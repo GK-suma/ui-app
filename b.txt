@@ -7,3 +7,5 @@ duck
 cow
 lion
 tiger
+girrafe
+monkey
