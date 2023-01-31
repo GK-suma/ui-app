@@ -6,3 +6,5 @@ docker
 linux
 nginx
 git lab
+bit bucket
+migration
