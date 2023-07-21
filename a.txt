@@ -8,3 +8,4 @@ nginx
 git lab
 bit bucket
 migration
+server
